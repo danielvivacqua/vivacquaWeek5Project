@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\bin\Debug\vivacquaWeek5Project.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\bin\Debug\vivacquaWeek5Project.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\bin\Debug\vivacquaWeek5Project.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\obj\Debug\vivacquaWeek5Project.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\obj\Debug\vivacquaWeek5Project.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\vivacquaWeek5Project\vivacquaWeek5Project\obj\Debug\vivacquaWeek5Project.pdb
